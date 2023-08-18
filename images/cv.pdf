@@ -1,0 +1,2886 @@
+<!DOCTYPE html>
+<!-- saved from url=(0054)http://127.0.0.1:5500/portfolio%20website.html#contact -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    <link rel="stylesheet" href="./cv_files/style.css">
+    <link rel="shortcut icon" type="image/png" href="http://127.0.0.1:5500/images/me-icon.png">
+    
+    <script src="./cv_files/c42532e4a8.js.download" crossorigin="anonymous"></script>
+<style type="text/css">div.eapps-widget{position:relative}div.eapps-widget.eapps-widget-show-toolbar:before{position:absolute;content:"";display:block;bottom:0;top:0;left:0;right:0;pointer-events:none;border:1px solid transparent;transition:border .3s ease;z-index:1}.eapps-widget-toolbar{position:absolute;top:-32px;left:0;right:0;display:block;z-index:99999;padding-bottom:4px;transition:all .3s ease;pointer-events:none;opacity:0}.eapps-widget:hover .eapps-widget-toolbar{opacity:1;pointer-events:auto}.eapps-widget-toolbar a{text-decoration:none;box-shadow:none!important}.eapps-widget-toolbar-panel{border-radius:6px;background-color:#222;color:#fff;display:-ms-inline-flexbox;display:inline-flex;-ms-flex-align:center;align-items:center;top:0;position:relative;transition:all .3s ease;opacity:0;overflow:hidden;-webkit-backface-visibility:hidden;backface-visibility:hidden;box-shadow:0 0 0 1px hsla(0,0%,100%,.2);height:28px}.eapps-widget:hover .eapps-widget-toolbar-panel{opacity:1}.eapps-widget-toolbar-panel-wrapper{width:100%;position:relative}.eapps-widget-toolbar-panel-only-you{position:absolute;top:-24px;font-size:11px;line-height:14px;color:#9c9c9c;padding:5px 4px}.eapps-widget-toolbar-panel-logo{width:28px;height:28px;border-right:1px solid hsla(0,0%,100%,.2);display:-ms-flexbox;display:flex;-ms-flex-align:center;align-items:center;-ms-flex-pack:center;justify-content:center}.eapps-widget-toolbar-panel-logo svg{display:block;width:15px;height:15px;fill:#f93262}.eapps-widget-toolbar-panel-edit{font-size:12px;font-weight:400;line-height:14px;display:-ms-inline-flexbox;display:inline-flex;-ms-flex-align:center;align-items:center;padding:9px;border-right:1px solid hsla(0,0%,100%,.2);color:#fff;text-decoration:none}.eapps-widget-toolbar-panel-edit-icon{width:14px;height:14px;margin-right:8px}.eapps-widget-toolbar-panel-edit-icon svg{display:block;width:100%;height:100%;fill:#fff}.eapps-widget-toolbar-panel-views{display:-ms-inline-flexbox;display:inline-flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center}.eapps-widget-toolbar-panel-views-label{font-size:12px;font-weight:400;line-height:14px;margin-left:8px}.eapps-widget-toolbar-panel-views-bar{display:-ms-inline-flexbox;display:inline-flex;width:70px;height:3px;border-radius:2px;margin-left:8px;background-color:hsla(0,0%,100%,.3)}.eapps-widget-toolbar-panel-views-bar-inner{border-radius:2px;background-color:#4ad504}.eapps-widget-toolbar-panel-views-green .eapps-widget-toolbar-panel-views-bar-inner{background-color:#4ad504}.eapps-widget-toolbar-panel-views-red .eapps-widget-toolbar-panel-views-bar-inner{background-color:#ff4734}.eapps-widget-toolbar-panel-views-orange .eapps-widget-toolbar-panel-views-bar-inner{background-color:#ffb400}.eapps-widget-toolbar-panel-views-percent{display:-ms-inline-flexbox;display:inline-flex;margin-left:8px;margin-right:8px;font-size:12px;font-weight:400;line-height:14px}.eapps-widget-toolbar-panel-views-get-more{padding:9px 16px;background-color:#f93262;color:#fff;font-size:12px;font-weight:400;border-radius:0 6px 6px 0}.eapps-widget-toolbar-panel-share{position:absolute;top:0;display:inline-block;margin-left:8px;width:83px;height:28px;padding-bottom:4px;box-sizing:content-box!important}.eapps-widget-toolbar-panel-share:hover .eapps-widget-toolbar-panel-share-block{opacity:1;pointer-events:all}.eapps-widget-toolbar-panel-share-button{padding:0 18px;height:28px;background-color:#1c91ff;color:#fff;font-size:12px;font-weight:400;border-radius:6px;position:absolute;top:0;display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row;cursor:default;-ms-flex-align:center;align-items:center}.eapps-widget-toolbar-panel-share-button svg{display:inline-block;margin-right:6px;fill:#fff;position:relative;top:-1px}.eapps-widget-toolbar-panel-share-block{position:absolute;background:#fff;border:1px solid hsla(0,0%,7%,.1);border-radius:10px;width:209px;top:32px;transform:translateX(-63px);opacity:0;pointer-events:none;transition:all .3s ease;box-shadow:0 4px 6px rgba(0,0,0,.05)}.eapps-widget-toolbar-panel-share-block:hover{opacity:1;pointer-events:all}.eapps-widget-toolbar-panel-share-block-text{color:#111;font-size:15px;font-weight:400;padding:12px 0;text-align:center}.eapps-widget-toolbar-panel-share-block-text-icon{padding-bottom:4px}.eapps-widget-toolbar-panel-share-block-actions{display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row;border-top:1px solid hsla(0,0%,7%,.1)}.eapps-widget-toolbar-panel-share-block-actions-item{width:33.333333%;display:-ms-flexbox;display:flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center;height:39px;transition:all .3s ease;background-color:transparent}.eapps-widget-toolbar-panel-share-block-actions-item:hover{background-color:#fafafa}.eapps-widget-toolbar-panel-share-block-actions-item a{width:100%;height:100%;display:-ms-flexbox;display:flex;-ms-flex-pack:center;justify-content:center;-ms-flex-align:center;align-items:center}.eapps-widget-toolbar-panel-share-block-actions-item-icon{width:16px;height:16px;display:block}.eapps-widget-toolbar-panel-share-block-actions-item-facebook .eapps-widget-toolbar-panel-share-block-actions-item-icon{fill:#3c5a9b}.eapps-widget-toolbar-panel-share-block-actions-item-twitter .eapps-widget-toolbar-panel-share-block-actions-item-icon{fill:#1ab2e8}.eapps-widget-toolbar-panel-share-block-actions-item-google .eapps-widget-toolbar-panel-share-block-actions-item-icon{fill:#dd4b39}.eapps-widget-toolbar-panel-share-block-actions-item:not(:last-child){border-right:1px solid hsla(0,0%,7%,.1)}</style><link href="https://apps.elfsight.com/" rel="preconnect" crossorigin=""><link href="https://static.elfsight.com/" rel="preconnect" crossorigin=""><link href="https://service-reviews-ultimate.elfsight.com/" rel="preconnect" crossorigin=""><link href="https://storage.elfsight.com/" rel="preconnect" crossorigin=""><script src="./cv_files/socialIcons.js.download" defer="defer" charset="UTF-8"></script><style>.eapps-widget {
+  -webkit-animation: none;
+          animation: none;
+  -webkit-animation-delay: 0;
+          animation-delay: 0;
+  -webkit-animation-direction: normal;
+          animation-direction: normal;
+  -webkit-animation-duration: 0;
+          animation-duration: 0;
+  -webkit-animation-fill-mode: none;
+          animation-fill-mode: none;
+  -webkit-animation-iteration-count: 1;
+          animation-iteration-count: 1;
+  -webkit-animation-name: none;
+          animation-name: none;
+  -webkit-animation-play-state: running;
+          animation-play-state: running;
+  -webkit-animation-timing-function: ease;
+          animation-timing-function: ease;
+  -webkit-backface-visibility: visible;
+          backface-visibility: visible;
+  background: 0;
+  background-attachment: scroll;
+  background-clip: border-box;
+  background-color: transparent;
+  background-image: none;
+  background-origin: padding-box;
+  background-position: 0 0;
+  background-position-x: 0;
+  background-position-y: 0;
+  background-repeat: repeat;
+  background-size: auto auto;
+  border: 0;
+  border-style: none;
+  border-width: medium;
+  border-color: inherit;
+  border-bottom: 0;
+  border-bottom-color: inherit;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-style: none;
+  border-bottom-width: medium;
+  border-collapse: separate;
+  -o-border-image: none;
+     border-image: none;
+  border-left: 0;
+  border-left-color: inherit;
+  border-left-style: none;
+  border-left-width: medium;
+  border-radius: 0;
+  border-right: 0;
+  border-right-color: inherit;
+  border-right-style: none;
+  border-right-width: medium;
+  border-spacing: 0;
+  border-top: 0;
+  border-top-color: inherit;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-top-style: none;
+  border-top-width: medium;
+  bottom: auto;
+  box-shadow: none;
+  box-sizing: content-box;
+  caption-side: top;
+  clear: none;
+  clip: auto;
+  color: inherit;
+  -webkit-columns: auto;
+     -moz-columns: auto;
+          columns: auto;
+  -webkit-column-count: auto;
+     -moz-column-count: auto;
+          column-count: auto;
+  -webkit-column-fill: balance;
+     -moz-column-fill: balance;
+          column-fill: balance;
+  grid-column-gap: normal;
+  -webkit-column-gap: normal;
+     -moz-column-gap: normal;
+          column-gap: normal;
+  -webkit-column-rule: medium none currentColor;
+     -moz-column-rule: medium none currentColor;
+          column-rule: medium none currentColor;
+  -webkit-column-rule-color: currentColor;
+     -moz-column-rule-color: currentColor;
+          column-rule-color: currentColor;
+  -webkit-column-rule-style: none;
+     -moz-column-rule-style: none;
+          column-rule-style: none;
+  -webkit-column-rule-width: none;
+     -moz-column-rule-width: none;
+          column-rule-width: none;
+  -webkit-column-span: 1;
+     -moz-column-span: 1;
+          column-span: 1;
+  -webkit-column-width: auto;
+     -moz-column-width: auto;
+          column-width: auto;
+  content: normal;
+  counter-increment: none;
+  counter-reset: none;
+  direction: ltr;
+  empty-cells: show;
+  float: none;
+  font: normal;
+  font-family: inherit;
+  font-size: medium;
+  font-style: normal;
+  font-feature-settings: normal;
+  font-variant: normal;
+  font-weight: normal;
+  height: auto;
+  -webkit-hyphens: none;
+          hyphens: none;
+  left: auto;
+  letter-spacing: normal;
+  line-height: normal;
+  list-style: none;
+  list-style-image: none;
+  list-style-position: outside;
+  list-style-type: disc;
+  margin: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  opacity: 1;
+  orphans: 0;
+  outline: 0;
+  outline-color: invert;
+  outline-style: none;
+  outline-width: medium;
+  overflow: visible;
+  overflow-x: visible;
+  overflow-y: visible;
+  padding: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  page-break-after: auto;
+  page-break-before: auto;
+  page-break-inside: auto;
+  -webkit-perspective: none;
+          perspective: none;
+  -webkit-perspective-origin: 50% 50%;
+          perspective-origin: 50% 50%;
+  position: static;
+  quotes: '\201C' '\201D' '\2018' '\2019';
+  right: auto;
+  -moz-tab-size: 8;
+    -o-tab-size: 8;
+       tab-size: 8;
+  table-layout: auto;
+  text-align: inherit;
+  -moz-text-align-last: auto;
+       text-align-last: auto;
+  text-decoration: none;
+  -webkit-text-decoration-color: inherit;
+          text-decoration-color: inherit;
+  -webkit-text-decoration-line: none;
+          text-decoration-line: none;
+  -webkit-text-decoration-style: solid;
+          text-decoration-style: solid;
+  text-indent: 0;
+  text-shadow: none;
+  text-transform: none;
+  top: auto;
+  -webkit-transform: none;
+          transform: none;
+  -webkit-transform-style: flat;
+          transform-style: flat;
+  transition: none;
+  transition-delay: 0s;
+  transition-duration: 0s;
+  transition-property: none;
+  transition-timing-function: ease;
+  unicode-bidi: normal;
+  vertical-align: baseline;
+  visibility: visible;
+  white-space: normal;
+  widows: 0;
+  width: auto;
+  word-spacing: normal;
+  z-index: auto;
+}
+.eapps-social-icons {
+  display: block;
+  position: relative;
+}
+.eapps-social-icons-item {
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  cursor: pointer;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+  transition: all 0.1s ease;
+}
+.eapps-social-icons-item::before,
+.eapps-social-icons-item::after {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.eapps-social-icons-item::after {
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.1s ease;
+}
+.eapps-social-icons-item-icon {
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 1;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+  transition: all 0.1s ease;
+}
+.eapps-social-icons-item:hover::before {
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0s ease 0.1s;
+}
+.eapps-social-icons-item:hover::after {
+  opacity: 1;
+  visibility: visible;
+}
+.eapps-social-icons.eapps-social-icons-position-left {
+  text-align: left;
+}
+.eapps-social-icons.eapps-social-icons-position-center {
+  text-align: center;
+}
+.eapps-social-icons.eapps-social-icons-position-right {
+  text-align: right;
+}
+.eapps-social-icons-location-inline.eapps-social-icons-position-left {
+  text-align: left;
+}
+.eapps-social-icons-location-inline.eapps-social-icons-position-center {
+  text-align: center;
+}
+.eapps-social-icons-location-inline.eapps-social-icons-position-right {
+  text-align: right;
+}
+.eapps-social-icons-location-floating {
+  position: fixed !important;
+  z-index: 1000000 !important;
+}
+.eapps-social-icons-location-floating.eapps-social-icons-position-left {
+  left: 0;
+  top: 50%;
+  text-align: left;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+.eapps-social-icons-location-floating.eapps-social-icons-position-center {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+.eapps-social-icons-location-floating.eapps-social-icons-position-right {
+  right: 0;
+  text-align: right;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  top: 50%;
+}
+.eapps-social-icons-border-radius-circle .eapps-social-icons-item,
+.eapps-social-icons-border-radius-circle .eapps-social-icons-item::before,
+.eapps-social-icons-border-radius-circle .eapps-social-icons-item::after {
+  border-radius: 50%;
+}
+.eapps-social-icons-border-radius-square .eapps-social-icons-item,
+.eapps-social-icons-border-radius-square .eapps-social-icons-item::before,
+.eapps-social-icons-border-radius-square .eapps-social-icons-item::after {
+  border-radius: 0;
+}
+.eapps-social-icons-border-radius-rounded .eapps-social-icons-item,
+.eapps-social-icons-border-radius-rounded .eapps-social-icons-item::before,
+.eapps-social-icons-border-radius-rounded .eapps-social-icons-item::after {
+  border-radius: 5px;
+}
+.eapps-social-icons-size-24 .eapps-social-icons-item {
+  width: 24px;
+  height: 24px;
+  margin: 3px;
+  border-width: 1px;
+}
+.eapps-social-icons-size-24 .eapps-social-icons-item-icon {
+  width: 12px;
+  height: 12px;
+  margin: -6px 0 0 -6px;
+}
+.eapps-social-icons-size-24 .eapps-social-icons-item-custom .eapps-social-icons-item-icon {
+  width: 24px;
+  height: 24px;
+  margin: -12px 0 0 -12px;
+}
+.eapps-social-icons-size-32 .eapps-social-icons-item {
+  width: 32px;
+  height: 32px;
+  margin: 4px;
+  border-width: 1px;
+}
+.eapps-social-icons-size-32 .eapps-social-icons-item-icon {
+  width: 16px;
+  height: 16px;
+  margin: -8px 0 0 -8px;
+}
+.eapps-social-icons-size-32 .eapps-social-icons-item-custom .eapps-social-icons-item-icon {
+  width: 32px;
+  height: 32px;
+  margin: -16px 0 0 -16px;
+}
+.eapps-social-icons-size-40 .eapps-social-icons-item {
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  border-width: 2px;
+}
+.eapps-social-icons-size-40 .eapps-social-icons-item-icon {
+  width: 20px;
+  height: 20px;
+  margin: -10px 0 0 -10px;
+}
+.eapps-social-icons-size-40 .eapps-social-icons-item-custom .eapps-social-icons-item-icon {
+  width: 40px;
+  height: 40px;
+  margin: -20px 0 0 -20px;
+}
+.eapps-social-icons-size-48 .eapps-social-icons-item {
+  width: 48px;
+  height: 48px;
+  margin: 6px;
+  border-width: 2px;
+}
+.eapps-social-icons-size-48 .eapps-social-icons-item-icon {
+  width: 24px;
+  height: 24px;
+  margin: -12px 0 0 -12px;
+}
+.eapps-social-icons-size-48 .eapps-social-icons-item-custom .eapps-social-icons-item-icon {
+  width: 48px;
+  height: 48px;
+  margin: -24px 0 0 -24px;
+}
+.eapps-social-icons-size-60 .eapps-social-icons-item {
+  width: 60px;
+  height: 60px;
+  margin: 7px;
+  border-width: 2px;
+}
+.eapps-social-icons-size-60 .eapps-social-icons-item-icon {
+  width: 28px;
+  height: 28px;
+  margin: -14px 0 0 -14px;
+}
+.eapps-social-icons-size-60 .eapps-social-icons-item-custom .eapps-social-icons-item-icon {
+  width: 60px;
+  height: 60px;
+  margin: -30px 0 0 -30px;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-500px::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-500px::after {
+  background-color: #0099e5;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-500px,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-500px:hover {
+  border-color: #0099e5;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-500px .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-500px:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-500px .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-500px:hover .eapps-social-icons-item-icon * {
+  fill: #0099e5;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-500px .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-500px:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-500px .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-500px:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-500px .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-500px:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-500px .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-500px:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-500px .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-500px:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-500px .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-500px:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-badoo::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-badoo::after {
+  background-color: #ff6719;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-badoo,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-badoo:hover {
+  border-color: #ff6719;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-badoo .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-badoo:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-badoo .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-badoo:hover .eapps-social-icons-item-icon * {
+  fill: #ff6719;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-badoo .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-badoo:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-badoo .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-badoo:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-badoo .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-badoo:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-badoo .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-badoo:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-badoo .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-badoo:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-badoo .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-badoo:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-behance::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-behance::after {
+  background-color: #1776f6;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-behance,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-behance:hover {
+  border-color: #1776f6;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-behance .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-behance:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-behance .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-behance:hover .eapps-social-icons-item-icon * {
+  fill: #1776f6;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-behance .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-behance:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-behance .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-behance:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-behance .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-behance:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-behance .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-behance:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-behance .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-behance:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-behance .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-behance:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-blogger::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-blogger::after {
+  background-color: #ff8b13;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-blogger,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-blogger:hover {
+  border-color: #ff8b13;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-blogger .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-blogger:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-blogger .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-blogger:hover .eapps-social-icons-item-icon * {
+  fill: #ff8b13;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-blogger .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-blogger:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-blogger .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-blogger:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-blogger .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-blogger:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-blogger .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-blogger:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-blogger .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-blogger:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-blogger .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-blogger:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-delicious::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-delicious::after {
+  background-color: #39f;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-delicious,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-delicious:hover {
+  border-color: #39f;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-delicious .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-delicious:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-delicious .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-delicious:hover .eapps-social-icons-item-icon * {
+  fill: #39f;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-delicious .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-delicious:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-delicious .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-delicious:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-delicious .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-delicious:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-delicious .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-delicious:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-delicious .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-delicious:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-delicious .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-delicious:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-deviantart::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-deviantart::after {
+  background-color: #05cc47;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-deviantart,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-deviantart:hover {
+  border-color: #05cc47;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-deviantart .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-deviantart:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-deviantart .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-deviantart:hover .eapps-social-icons-item-icon * {
+  fill: #05cc47;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-deviantart .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-deviantart:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-deviantart .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-deviantart:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-deviantart .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-deviantart:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-deviantart .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-deviantart:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-deviantart .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-deviantart:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-deviantart .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-deviantart:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-digg::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-digg::after {
+  background-color: ;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-digg,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-digg:hover {
+  border-color: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-digg .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-digg:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-digg .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-digg:hover .eapps-social-icons-item-icon * {
+  fill: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-digg .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-digg:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-digg .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-digg:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-digg .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-digg:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-digg .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-digg:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-digg .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-digg:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-digg .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-digg:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-disqus::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-disqus::after {
+  background-color: #3ca2ef;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-disqus,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-disqus:hover {
+  border-color: #3ca2ef;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-disqus .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-disqus:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-disqus .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-disqus:hover .eapps-social-icons-item-icon * {
+  fill: #3ca2ef;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-disqus .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-disqus:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-disqus .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-disqus:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-disqus .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-disqus:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-disqus .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-disqus:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-disqus .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-disqus:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-disqus .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-disqus:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-dribbble::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-dribbble::after {
+  background-color: #fa488c;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-dribbble,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-dribbble:hover {
+  border-color: #fa488c;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-dribbble .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-dribbble:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-dribbble .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-dribbble:hover .eapps-social-icons-item-icon * {
+  fill: #fa488c;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-dribbble .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-dribbble:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-dribbble .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-dribbble:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-dribbble .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-dribbble:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-dribbble .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-dribbble:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-dribbble .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-dribbble:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-dribbble .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-dribbble:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-envato::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-envato::after {
+  background-color: #8dcf3a;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-envato,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-envato:hover {
+  border-color: #8dcf3a;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-envato .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-envato:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-envato .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-envato:hover .eapps-social-icons-item-icon * {
+  fill: #8dcf3a;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-envato .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-envato:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-envato .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-envato:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-envato .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-envato:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-envato .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-envato:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-envato .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-envato:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-envato .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-envato:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-evernote::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-evernote::after {
+  background-color: #2dbe60;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-evernote,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-evernote:hover {
+  border-color: #2dbe60;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-evernote .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-evernote:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-evernote .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-evernote:hover .eapps-social-icons-item-icon * {
+  fill: #2dbe60;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-evernote .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-evernote:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-evernote .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-evernote:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-evernote .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-evernote:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-evernote .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-evernote:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-evernote .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-evernote:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-evernote .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-evernote:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-facebook::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-facebook::after {
+  background-color: #3e68c0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-facebook,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-facebook:hover {
+  border-color: #3e68c0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-facebook .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-facebook:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-facebook .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-facebook:hover .eapps-social-icons-item-icon * {
+  fill: #3e68c0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-facebook .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-facebook:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-facebook .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-facebook:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-facebook .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-facebook:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-facebook .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-facebook:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-facebook .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-facebook:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-facebook .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-facebook:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-fb-messenger::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-fb-messenger::after {
+  background-color: #007fff;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-fb-messenger,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-fb-messenger:hover {
+  border-color: #007fff;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-fb-messenger .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-fb-messenger:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-fb-messenger .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-fb-messenger:hover .eapps-social-icons-item-icon * {
+  fill: #007fff;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-fb-messenger .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-fb-messenger:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-fb-messenger .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-fb-messenger:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-fb-messenger .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-fb-messenger:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-fb-messenger .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-fb-messenger:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-fb-messenger .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-fb-messenger:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-fb-messenger .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-fb-messenger:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-flickr::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-flickr::after {
+  background-color: #ff0084;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-flickr,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-flickr:hover {
+  border-color: #ff0084;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-flickr .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-flickr:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-flickr .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-flickr:hover .eapps-social-icons-item-icon * {
+  fill: #ff0084;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-flickr .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-flickr:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-flickr .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-flickr:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-flickr .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-flickr:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-flickr .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-flickr:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-flickr .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-flickr:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-flickr .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-flickr:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-flipboard::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-flipboard::after {
+  background-color: #f43d3d;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-flipboard,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-flipboard:hover {
+  border-color: #f43d3d;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-flipboard .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-flipboard:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-flipboard .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-flipboard:hover .eapps-social-icons-item-icon * {
+  fill: #f43d3d;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-flipboard .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-flipboard:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-flipboard .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-flipboard:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-flipboard .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-flipboard:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-flipboard .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-flipboard:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-flipboard .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-flipboard:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-flipboard .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-flipboard:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-forrst::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-forrst::after {
+  background-color: #55c462;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-forrst,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-forrst:hover {
+  border-color: #55c462;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-forrst .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-forrst:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-forrst .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-forrst:hover .eapps-social-icons-item-icon * {
+  fill: #55c462;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-forrst .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-forrst:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-forrst .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-forrst:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-forrst .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-forrst:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-forrst .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-forrst:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-forrst .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-forrst:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-forrst .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-forrst:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-foursquare::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-foursquare::after {
+  background-color: #ff3b6f;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-foursquare,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-foursquare:hover {
+  border-color: #ff3b6f;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-foursquare .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-foursquare:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-foursquare .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-foursquare:hover .eapps-social-icons-item-icon * {
+  fill: #ff3b6f;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-foursquare .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-foursquare:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-foursquare .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-foursquare:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-foursquare .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-foursquare:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-foursquare .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-foursquare:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-foursquare .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-foursquare:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-foursquare .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-foursquare:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-github::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-github::after {
+  background-color: ;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-github,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-github:hover {
+  border-color: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-github .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-github:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-github .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-github:hover .eapps-social-icons-item-icon * {
+  fill: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-github .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-github:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-github .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-github:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-github .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-github:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-github .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-github:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-github .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-github:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-github .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-github:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-instagram::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-instagram::after {
+  background-color: ;
+  background-image: radial-gradient(circle farthest-corner at 35% 90%, #fec564, transparent 50%), radial-gradient(circle farthest-corner at 0 140%, #fec564, transparent 50%), radial-gradient(ellipse farthest-corner at 0 -25%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 20% -50%, #5258cf, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 0, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 60% -20%, #893dc2, transparent 50%), radial-gradient(ellipse farthest-corner at 100% 100%, #d9317a, transparent), linear-gradient(#6559ca, #bc318f 30%, #e33f5f 50%, #f77638 70%, #fec66d 100%);
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-instagram,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-instagram:hover {
+  border-color: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-instagram .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-instagram:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-instagram .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-instagram:hover .eapps-social-icons-item-icon * {
+  fill: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-instagram .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-instagram:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-instagram .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-instagram:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-instagram .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-instagram:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-instagram .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-instagram:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-instagram .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-instagram:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-instagram .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-instagram:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-lastfm::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-lastfm::after {
+  background-color: #ea3939;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-lastfm,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-lastfm:hover {
+  border-color: #ea3939;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-lastfm .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-lastfm:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-lastfm .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-lastfm:hover .eapps-social-icons-item-icon * {
+  fill: #ea3939;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-lastfm .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-lastfm:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-lastfm .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-lastfm:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-lastfm .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-lastfm:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-lastfm .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-lastfm:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-lastfm .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-lastfm:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-lastfm .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-lastfm:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-linkedin::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-linkedin::after {
+  background-color: #15ace5;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-linkedin,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-linkedin:hover {
+  border-color: #15ace5;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-linkedin .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-linkedin:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-linkedin .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-linkedin:hover .eapps-social-icons-item-icon * {
+  fill: #15ace5;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-linkedin .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-linkedin:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-linkedin .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-linkedin:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-linkedin .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-linkedin:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-linkedin .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-linkedin:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-linkedin .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-linkedin:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-linkedin .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-linkedin:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-livejournal::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-livejournal::after {
+  background-color: #2cbae5;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-livejournal,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-livejournal:hover {
+  border-color: #2cbae5;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-livejournal .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-livejournal:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-livejournal .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-livejournal:hover .eapps-social-icons-item-icon * {
+  fill: #2cbae5;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-livejournal .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-livejournal:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-livejournal .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-livejournal:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-livejournal .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-livejournal:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-livejournal .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-livejournal:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-livejournal .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-livejournal:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-livejournal .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-livejournal:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-email::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-email::after {
+  background-color: #f4cd0b;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-email,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-email:hover {
+  border-color: #f4cd0b;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-email .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-email:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-email .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-email:hover .eapps-social-icons-item-icon * {
+  fill: #f4cd0b;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-email .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-email:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-email .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-email:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-email .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-email:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-email .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-email:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-email .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-email:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-email .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-email:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-myspace::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-myspace::after {
+  background-color: ;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-myspace,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-myspace:hover {
+  border-color: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-myspace .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-myspace:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-myspace .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-myspace:hover .eapps-social-icons-item-icon * {
+  fill: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-myspace .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-myspace:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-myspace .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-myspace:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-myspace .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-myspace:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-myspace .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-myspace:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-myspace .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-myspace:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-myspace .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-myspace:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-odnoklassniki::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-odnoklassniki::after {
+  background-color: #ff8321;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-odnoklassniki,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-odnoklassniki:hover {
+  border-color: #ff8321;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-odnoklassniki .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-odnoklassniki:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-odnoklassniki .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-odnoklassniki:hover .eapps-social-icons-item-icon * {
+  fill: #ff8321;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-odnoklassniki .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-odnoklassniki:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-odnoklassniki .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-odnoklassniki:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-odnoklassniki .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-odnoklassniki:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-odnoklassniki .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-odnoklassniki:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-odnoklassniki .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-odnoklassniki:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-odnoklassniki .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-odnoklassniki:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-periscope::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-periscope::after {
+  background-color: #35b3db;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-periscope,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-periscope:hover {
+  border-color: #35b3db;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-periscope .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-periscope:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-periscope .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-periscope:hover .eapps-social-icons-item-icon * {
+  fill: #35b3db;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-periscope .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-periscope:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-periscope .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-periscope:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-periscope .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-periscope:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-periscope .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-periscope:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-periscope .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-periscope:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-periscope .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-periscope:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-pinterest::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-pinterest::after {
+  background-color: #ea3145;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-pinterest,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-pinterest:hover {
+  border-color: #ea3145;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-pinterest .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-pinterest:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-pinterest .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-pinterest:hover .eapps-social-icons-item-icon * {
+  fill: #ea3145;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-pinterest .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-pinterest:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-pinterest .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-pinterest:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-pinterest .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-pinterest:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-pinterest .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-pinterest:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-pinterest .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-pinterest:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-pinterest .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-pinterest:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-print::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-print::after {
+  background-color: ;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-print,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-print:hover {
+  border-color: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-print .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-print:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-print .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-print:hover .eapps-social-icons-item-icon * {
+  fill: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-print .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-print:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-print .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-print:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-print .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-print:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-print .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-print:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-print .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-print:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-print .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-print:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-reddit::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-reddit::after {
+  background-color: #ff5c1f;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-reddit,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-reddit:hover {
+  border-color: #ff5c1f;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-reddit .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-reddit:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-reddit .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-reddit:hover .eapps-social-icons-item-icon * {
+  fill: #ff5c1f;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-reddit .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-reddit:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-reddit .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-reddit:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-reddit .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-reddit:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-reddit .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-reddit:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-reddit .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-reddit:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-reddit .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-reddit:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-rss::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-rss::after {
+  background-color: #fb7629;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-rss,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-rss:hover {
+  border-color: #fb7629;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-rss .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-rss:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-rss .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-rss:hover .eapps-social-icons-item-icon * {
+  fill: #fb7629;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-rss .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-rss:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-rss .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-rss:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-rss .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-rss:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-rss .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-rss:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-rss .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-rss:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-rss .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-rss:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-sina-weibo::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-sina-weibo::after {
+  background-color: #ff3f3f;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-sina-weibo,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-sina-weibo:hover {
+  border-color: #ff3f3f;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-sina-weibo .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-sina-weibo:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-sina-weibo .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-sina-weibo:hover .eapps-social-icons-item-icon * {
+  fill: #ff3f3f;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-sina-weibo .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-sina-weibo:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-sina-weibo .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-sina-weibo:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-sina-weibo .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-sina-weibo:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-sina-weibo .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-sina-weibo:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-sina-weibo .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-sina-weibo:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-sina-weibo .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-sina-weibo:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-skype::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-skype::after {
+  background-color: #06bcff;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-skype,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-skype:hover {
+  border-color: #06bcff;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-skype .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-skype:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-skype .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-skype:hover .eapps-social-icons-item-icon * {
+  fill: #06bcff;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-skype .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-skype:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-skype .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-skype:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-skype .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-skype:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-skype .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-skype:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-skype .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-skype:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-skype .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-skype:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-slack::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-slack::after {
+  background-color: ;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-slack,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-slack:hover {
+  border-color: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-slack .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-slack:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-slack .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-slack:hover .eapps-social-icons-item-icon * {
+  fill: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-slack .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-slack:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-slack .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-slack:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-slack .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-slack:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-slack .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-slack:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-slack .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-slack:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-slack .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-slack:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-snapchat::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-snapchat::after {
+  background-color: #fada06;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-snapchat,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-snapchat:hover {
+  border-color: #fada06;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-snapchat .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-snapchat:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-snapchat .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-snapchat:hover .eapps-social-icons-item-icon * {
+  fill: #fada06;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-snapchat .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-snapchat:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-snapchat .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-snapchat:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-snapchat .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-snapchat:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-snapchat .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-snapchat:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-snapchat .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-snapchat:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-snapchat .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-snapchat:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-soundcloud::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-soundcloud::after {
+  background-color: #f80;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-soundcloud,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-soundcloud:hover {
+  border-color: #f80;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-soundcloud .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-soundcloud:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-soundcloud .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-soundcloud:hover .eapps-social-icons-item-icon * {
+  fill: #f80;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-soundcloud .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-soundcloud:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-soundcloud .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-soundcloud:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-soundcloud .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-soundcloud:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-soundcloud .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-soundcloud:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-soundcloud .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-soundcloud:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-soundcloud .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-soundcloud:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-spotify::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-spotify::after {
+  background-color: #28c858;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-spotify,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-spotify:hover {
+  border-color: #28c858;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-spotify .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-spotify:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-spotify .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-spotify:hover .eapps-social-icons-item-icon * {
+  fill: #28c858;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-spotify .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-spotify:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-spotify .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-spotify:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-spotify .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-spotify:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-spotify .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-spotify:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-spotify .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-spotify:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-spotify .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-spotify:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-stackoverflow::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-stackoverflow::after {
+  background-color: #ff780d;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-stackoverflow,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-stackoverflow:hover {
+  border-color: #ff780d;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-stackoverflow .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-stackoverflow:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-stackoverflow .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-stackoverflow:hover .eapps-social-icons-item-icon * {
+  fill: #ff780d;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-stackoverflow .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-stackoverflow:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-stackoverflow .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-stackoverflow:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-stackoverflow .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-stackoverflow:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-stackoverflow .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-stackoverflow:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-stackoverflow .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-stackoverflow:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-stackoverflow .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-stackoverflow:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-stumbleupon::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-stumbleupon::after {
+  background-color: #eb4924;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-stumbleupon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-stumbleupon:hover {
+  border-color: #eb4924;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-stumbleupon .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-stumbleupon:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-stumbleupon .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-stumbleupon:hover .eapps-social-icons-item-icon * {
+  fill: #eb4924;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-stumbleupon .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-stumbleupon:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-stumbleupon .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-stumbleupon:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-stumbleupon .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-stumbleupon:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-stumbleupon .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-stumbleupon:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-stumbleupon .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-stumbleupon:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-stumbleupon .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-stumbleupon:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-telegram::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-telegram::after {
+  background-color: #2ca5e0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-telegram,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-telegram:hover {
+  border-color: #2ca5e0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-telegram .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-telegram:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-telegram .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-telegram:hover .eapps-social-icons-item-icon * {
+  fill: #2ca5e0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-telegram .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-telegram:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-telegram .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-telegram:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-telegram .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-telegram:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-telegram .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-telegram:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-telegram .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-telegram:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-telegram .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-telegram:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-tiktok::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-tiktok::after {
+  background-color: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-tiktok,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-tiktok:hover {
+  border-color: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-tiktok .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-tiktok:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-tiktok .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-tiktok:hover .eapps-social-icons-item-icon * {
+  fill: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-tiktok .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-tiktok:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-tiktok .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-tiktok:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-tiktok .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-tiktok:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-tiktok .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-tiktok:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-tiktok .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-tiktok:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-tiktok .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-tiktok:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-tumblr::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-tumblr::after {
+  background-color: #35465c;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-tumblr,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-tumblr:hover {
+  border-color: #35465c;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-tumblr .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-tumblr:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-tumblr .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-tumblr:hover .eapps-social-icons-item-icon * {
+  fill: #35465c;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-tumblr .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-tumblr:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-tumblr .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-tumblr:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-tumblr .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-tumblr:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-tumblr .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-tumblr:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-tumblr .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-tumblr:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-tumblr .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-tumblr:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-twitter::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-twitter::after {
+  background-color: #23abff;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-twitter,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-twitter:hover {
+  border-color: #23abff;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-twitter .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-twitter:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-twitter .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-twitter:hover .eapps-social-icons-item-icon * {
+  fill: #23abff;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-twitter .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-twitter:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-twitter .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-twitter:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-twitter .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-twitter:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-twitter .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-twitter:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-twitter .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-twitter:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-twitter .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-twitter:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-viadeo::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-viadeo::after {
+  background-color: #ff7452;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-viadeo,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-viadeo:hover {
+  border-color: #ff7452;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-viadeo .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-viadeo:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-viadeo .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-viadeo:hover .eapps-social-icons-item-icon * {
+  fill: #ff7452;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-viadeo .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-viadeo:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-viadeo .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-viadeo:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-viadeo .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-viadeo:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-viadeo .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-viadeo:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-viadeo .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-viadeo:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-viadeo .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-viadeo:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-viber::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-viber::after {
+  background-color: #9d62cc;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-viber,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-viber:hover {
+  border-color: #9d62cc;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-viber .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-viber:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-viber .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-viber:hover .eapps-social-icons-item-icon * {
+  fill: #9d62cc;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-viber .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-viber:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-viber .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-viber:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-viber .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-viber:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-viber .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-viber:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-viber .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-viber:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-viber .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-viber:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-vimeo::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-vimeo::after {
+  background-color: #1ab7ea;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vimeo,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vimeo:hover {
+  border-color: #1ab7ea;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vimeo .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vimeo:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vimeo .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vimeo:hover .eapps-social-icons-item-icon * {
+  fill: #1ab7ea;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vimeo .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vimeo:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vimeo .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vimeo:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vimeo .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vimeo:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vimeo .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vimeo:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vimeo .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vimeo:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vimeo .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vimeo:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-vine::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-vine::after {
+  background-color: #00b488;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vine,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vine:hover {
+  border-color: #00b488;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vine .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vine:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vine .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vine:hover .eapps-social-icons-item-icon * {
+  fill: #00b488;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vine .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vine:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vine .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vine:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vine .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vine:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vine .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vine:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vine .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vine:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vine .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vine:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-vk::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-vk::after {
+  background-color: #3673be;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vk,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vk:hover {
+  border-color: #3673be;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vk .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vk:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vk .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vk:hover .eapps-social-icons-item-icon * {
+  fill: #3673be;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vk .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vk:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vk .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vk:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vk .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vk:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vk .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vk:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vk .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vk:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-vk .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-vk:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-whatsapp::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-whatsapp::after {
+  background-color: #13d25a;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-whatsapp,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-whatsapp:hover {
+  border-color: #13d25a;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-whatsapp .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-whatsapp:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-whatsapp .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-whatsapp:hover .eapps-social-icons-item-icon * {
+  fill: #13d25a;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-whatsapp .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-whatsapp:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-whatsapp .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-whatsapp:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-whatsapp .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-whatsapp:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-whatsapp .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-whatsapp:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-whatsapp .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-whatsapp:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-whatsapp .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-whatsapp:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-xing::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-xing::after {
+  background-color: #20a5a5;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-xing,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-xing:hover {
+  border-color: #20a5a5;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-xing .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-xing:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-xing .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-xing:hover .eapps-social-icons-item-icon * {
+  fill: #20a5a5;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-xing .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-xing:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-xing .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-xing:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-xing .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-xing:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-xing .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-xing:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-xing .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-xing:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-xing .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-xing:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-youtube::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-youtube::after {
+  background-color: #ee3130;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-youtube,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-youtube:hover {
+  border-color: #ee3130;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-youtube .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-youtube:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-youtube .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-youtube:hover .eapps-social-icons-item-icon * {
+  fill: #ee3130;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-youtube .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-youtube:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-youtube .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-youtube:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-youtube .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-youtube:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-youtube .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-youtube:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-youtube .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-youtube:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-youtube .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-youtube:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-line::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-line::after {
+  background-color: #00c300;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-line,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-line:hover {
+  border-color: #00c300;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-line .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-line:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-line .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-line:hover .eapps-social-icons-item-icon * {
+  fill: #00c300;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-line .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-line:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-line .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-line:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-line .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-line:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-line .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-line:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-line .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-line:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-line .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-line:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-lineAt::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-lineAt::after {
+  background-color: #00c300;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-lineAt,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-lineAt:hover {
+  border-color: #00c300;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-lineAt .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-lineAt:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-lineAt .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-lineAt:hover .eapps-social-icons-item-icon * {
+  fill: #00c300;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-lineAt .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-lineAt:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-lineAt .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-lineAt:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-lineAt .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-lineAt:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-lineAt .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-lineAt:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-lineAt .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-lineAt:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-lineAt .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-lineAt:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-phone::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-phone::after {
+  background-color: #33cc49;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-phone,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-phone:hover {
+  border-color: #33cc49;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-phone .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-phone:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-phone .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-phone:hover .eapps-social-icons-item-icon * {
+  fill: #33cc49;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-phone .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-phone:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-phone .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-phone:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-phone .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-phone:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-phone .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-phone:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-phone .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-phone:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-phone .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-phone:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-amazon::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-amazon::after {
+  background-color: #f90;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-amazon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-amazon:hover {
+  border-color: #f90;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-amazon .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-amazon:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-amazon .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-amazon:hover .eapps-social-icons-item-icon * {
+  fill: #f90;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-amazon .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-amazon:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-amazon .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-amazon:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-amazon .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-amazon:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-amazon .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-amazon:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-amazon .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-amazon:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-amazon .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-amazon:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-itunes::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-itunes::after {
+  background-color: ;
+  background-image: linear-gradient(142deg, #ff5e50, #fe5c6c 25%, #e3658a 38%, #b87eb0 50%, #916cff 63%, rgba(112,188,251,0.92) 76%, #21c7fe);
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-itunes,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-itunes:hover {
+  border-color: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-itunes .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-itunes:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-itunes .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-itunes:hover .eapps-social-icons-item-icon * {
+  fill: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-itunes .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-itunes:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-itunes .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-itunes:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-itunes .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-itunes:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-itunes .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-itunes:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-itunes .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-itunes:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-itunes .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-itunes:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-apple::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-apple::after {
+  background-color: ;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-apple,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-apple:hover {
+  border-color: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-apple .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-apple:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-apple .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-apple:hover .eapps-social-icons-item-icon * {
+  fill: #000;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-apple .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-apple:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-apple .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-apple:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-apple .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-apple:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-apple .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-apple:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-apple .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-apple:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-apple .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-apple:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-native .eapps-social-icons-item-weibo::before,
+.eapps-social-icons-bg-color-on-hover-native .eapps-social-icons-item-weibo::after {
+  background-color: #f44336;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-weibo,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-weibo:hover {
+  border-color: #f44336;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-weibo .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-weibo:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-weibo .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-weibo:hover .eapps-social-icons-item-icon * {
+  fill: #f44336;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-weibo .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-weibo:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-weibo .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-weibo:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke-width: 0;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-weibo .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-weibo:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-weibo .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-weibo:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill: #f00044;
+  fill-opacity: 1;
+}
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-weibo .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-weibo:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-native .eapps-social-icons-item-weibo .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-native .eapps-social-icons-item-weibo:hover .eapps-social-icons-item-icon * .tiktok-blue {
+  fill: #08fff9;
+  stroke-width: 0;
+}
+.eapps-social-icons-bg-color-white .eapps-social-icons-item::before,
+.eapps-social-icons-bg-color-on-hover-white .eapps-social-icons-item::after {
+  background: #fff;
+}
+.eapps-social-icons-icon-color-white .eapps-social-icons-item,
+.eapps-social-icons-icon-color-on-hover-white .eapps-social-icons-item:hover {
+  border-color: #fff;
+}
+.eapps-social-icons-icon-color-white .eapps-social-icons-item .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-white .eapps-social-icons-item:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-white .eapps-social-icons-item .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-white .eapps-social-icons-item:hover .eapps-social-icons-item-icon * {
+  fill: #fff;
+}
+.eapps-social-icons-icon-color-white .eapps-social-icons-item .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-white .eapps-social-icons-item:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-white .eapps-social-icons-item .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-white .eapps-social-icons-item:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill-opacity: 0;
+}
+.eapps-social-icons-icon-color-white .eapps-social-icons-item .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-white .eapps-social-icons-item:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-white .eapps-social-icons-item .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-white .eapps-social-icons-item:hover .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-white .eapps-social-icons-item .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-white .eapps-social-icons-item:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-white .eapps-social-icons-item .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-white .eapps-social-icons-item:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke: #fff;
+  stroke-width: 1;
+}
+.eapps-social-icons-bg-color-black .eapps-social-icons-item::before,
+.eapps-social-icons-bg-color-on-hover-black .eapps-social-icons-item::after {
+  background: #222;
+}
+.eapps-social-icons-icon-color-black .eapps-social-icons-item,
+.eapps-social-icons-icon-color-on-hover-black .eapps-social-icons-item:hover {
+  border-color: #222;
+}
+.eapps-social-icons-icon-color-black .eapps-social-icons-item .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-on-hover-black .eapps-social-icons-item:hover .eapps-social-icons-item-icon,
+.eapps-social-icons-icon-color-black .eapps-social-icons-item .eapps-social-icons-item-icon *,
+.eapps-social-icons-icon-color-on-hover-black .eapps-social-icons-item:hover .eapps-social-icons-item-icon * {
+  fill: #222;
+}
+.eapps-social-icons-icon-color-black .eapps-social-icons-item .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-black .eapps-social-icons-item:hover .eapps-social-icons-item-icon .tiktok-red,
+.eapps-social-icons-icon-color-black .eapps-social-icons-item .eapps-social-icons-item-icon * .tiktok-red,
+.eapps-social-icons-icon-color-on-hover-black .eapps-social-icons-item:hover .eapps-social-icons-item-icon * .tiktok-red {
+  fill-opacity: 0;
+}
+.eapps-social-icons-icon-color-black .eapps-social-icons-item .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-black .eapps-social-icons-item:hover .eapps-social-icons-item-icon .tiktok-blue,
+.eapps-social-icons-icon-color-black .eapps-social-icons-item .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-on-hover-black .eapps-social-icons-item:hover .eapps-social-icons-item-icon * .tiktok-blue,
+.eapps-social-icons-icon-color-black .eapps-social-icons-item .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-black .eapps-social-icons-item:hover .eapps-social-icons-item-icon .tiktok-black,
+.eapps-social-icons-icon-color-black .eapps-social-icons-item .eapps-social-icons-item-icon * .tiktok-black,
+.eapps-social-icons-icon-color-on-hover-black .eapps-social-icons-item:hover .eapps-social-icons-item-icon * .tiktok-black {
+  stroke: #222;
+  stroke-width: 1;
+}
+.eapps-social-icons-bg-color-white .eapps-social-icons-item-custom::before,
+.eapps-social-icons-bg-color-on-hover-white .eapps-social-icons-item-custom::after {
+  background: inherit;
+}
+.eapps-social-icons-bg-color-black .eapps-social-icons-item-custom::before,
+.eapps-social-icons-bg-color-on-hover-black .eapps-social-icons-item-custom::after {
+  background: inherit;
+}
+.eapps-social-icons-style-default .eapps-social-icons-item,
+.eapps-social-icons-style-default .eapps-social-icons-item:hover {
+  box-shadow: none;
+  border-color: transparent;
+}
+.eapps-social-icons-style-material.eapps-social-icons-size-24 .eapps-social-icons-item,
+.eapps-social-icons-style-material.eapps-social-icons-size-32 .eapps-social-icons-item {
+  border-color: transparent;
+  box-shadow: 0 0 2px rgba(0,0,0,0.14), 0 1px 4px rgba(0,0,0,0.28);
+}
+.eapps-social-icons-style-material.eapps-social-icons-size-24 .eapps-social-icons-item:hover,
+.eapps-social-icons-style-material.eapps-social-icons-size-32 .eapps-social-icons-item:hover {
+  border-color: transparent;
+  box-shadow: 0 0 3px rgba(0,0,0,0.16), 0 2px 6px rgba(0,0,0,0.32);
+}
+.eapps-social-icons-style-material.eapps-social-icons-size-40 .eapps-social-icons-item,
+.eapps-social-icons-style-material.eapps-social-icons-size-48 .eapps-social-icons-item,
+.eapps-social-icons-style-material.eapps-social-icons-size-60 .eapps-social-icons-item {
+  border-color: transparent;
+  box-shadow: 0 0 4px rgba(0,0,0,0.14), 0 2px 6px rgba(0,0,0,0.28);
+}
+.eapps-social-icons-style-material.eapps-social-icons-size-40 .eapps-social-icons-item:hover,
+.eapps-social-icons-style-material.eapps-social-icons-size-48 .eapps-social-icons-item:hover,
+.eapps-social-icons-style-material.eapps-social-icons-size-60 .eapps-social-icons-item:hover {
+  border-color: transparent;
+  box-shadow: 0 0 6px rgba(0,0,0,0.16), 0 4px 8px rgba(0,0,0,0.32);
+}
+.eapps-social-icons-style-material .eapps-social-icons-item-custom,
+.eapps-social-icons-style-material .eapps-social-icons-item-custom:hover {
+  box-shadow: none !important;
+}
+.eapps-social-icons-style-flat .eapps-social-icons-item,
+.eapps-social-icons-style-flat .eapps-social-icons-item:hover {
+  border-color: transparent;
+}
+.eapps-social-icons-style-flat .eapps-social-icons-item::before,
+.eapps-social-icons-style-flat .eapps-social-icons-item:hover::before,
+.eapps-social-icons-style-flat .eapps-social-icons-item::after,
+.eapps-social-icons-style-flat .eapps-social-icons-item:hover::after {
+  box-shadow: inset 0 -2px rgba(0,0,0,0.2);
+}
+.eapps-social-icons-style-flat.eapps-social-icons-size-60 .eapps-social-icons-item::before,
+.eapps-social-icons-style-flat.eapps-social-icons-size-60 .eapps-social-icons-item:hover::before,
+.eapps-social-icons-style-flat.eapps-social-icons-size-60 .eapps-social-icons-item::after,
+.eapps-social-icons-style-flat.eapps-social-icons-size-60 .eapps-social-icons-item:hover::after {
+  box-shadow: inset 0 -3px rgba(0,0,0,0.2);
+}
+.eapps-social-icons-style-flat .eapps-social-icons-item-custom::before,
+.eapps-social-icons-style-flat .eapps-social-icons-item-custom:hover::before,
+.eapps-social-icons-style-flat .eapps-social-icons-item-custom::after,
+.eapps-social-icons-style-flat .eapps-social-icons-item-custom:hover::after {
+  box-shadow: none !important;
+}
+.eapps-social-icons-style-bordered .eapps-social-icons-item,
+.eapps-social-icons-style-bordered .eapps-social-icons-item:hover {
+  border-style: solid;
+  box-shadow: none;
+}
+.eapps-social-icons-style-bordered .eapps-social-icons-item::before,
+.eapps-social-icons-style-bordered .eapps-social-icons-item:hover::before,
+.eapps-social-icons-style-bordered .eapps-social-icons-item::after,
+.eapps-social-icons-style-bordered .eapps-social-icons-item:hover::after {
+  background: none;
+}
+.eapps-social-icons-style-bordered .eapps-social-icons-item-custom,
+.eapps-social-icons-style-bordered .eapps-social-icons-item-custom:hover {
+  border-style: inherit !important;
+}
+.eapps-social-icons-style-classic .eapps-social-icons-item,
+.eapps-social-icons-style-classic .eapps-social-icons-item:hover {
+  box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+}
+.eapps-social-icons-style-classic .eapps-social-icons-item::before,
+.eapps-social-icons-style-classic .eapps-social-icons-item:hover::before,
+.eapps-social-icons-style-classic .eapps-social-icons-item::after,
+.eapps-social-icons-style-classic .eapps-social-icons-item:hover::after {
+  box-shadow: inset 0 0 1px rgba(0,0,0,0.6), inset 0 1px 0 1px rgba(255,255,255,0.3);
+}
+.eapps-social-icons-style-classic .eapps-social-icons-item:active {
+  box-shadow: none;
+}
+.eapps-social-icons-style-classic .eapps-social-icons-item-custom,
+.eapps-social-icons-style-classic .eapps-social-icons-item-custom:hover {
+  box-shadow: none !important;
+}
+.eapps-social-icons-style-classic .eapps-social-icons-item-custom::before,
+.eapps-social-icons-style-classic .eapps-social-icons-item-custom:hover::before,
+.eapps-social-icons-style-classic .eapps-social-icons-item-custom::after,
+.eapps-social-icons-style-classic .eapps-social-icons-item-custom:hover::after {
+  box-shadow: none !important;
+}
+.eapps-social-icons-style-symbol {
+  margin: 0;
+}
+.eapps-social-icons-style-symbol .eapps-social-icons-item,
+.eapps-social-icons-style-symbol .eapps-social-icons-item:hover {
+  box-shadow: none;
+  border: none;
+  margin: 0;
+}
+.eapps-social-icons-style-symbol .eapps-social-icons-item::before,
+.eapps-social-icons-style-symbol .eapps-social-icons-item:hover::before,
+.eapps-social-icons-style-symbol .eapps-social-icons-item::after,
+.eapps-social-icons-style-symbol .eapps-social-icons-item:hover::after {
+  background: none;
+}
+.eapps-social-icons-animation-rotate .eapps-social-icons-item:hover .eapps-social-icons-item-icon {
+  -webkit-transform: scale(1.1) rotate(10deg);
+          transform: scale(1.1) rotate(10deg);
+  transition: all 0.3s cubic-bezier(0.2, 0.26, 0, 1.78);
+}
+.eapps-social-icons-animation-fly .eapps-social-icons-item {
+  transition: all 0.3s cubic-bezier(0.2, 0.26, 0, 1.78);
+}
+.eapps-social-icons-animation-fly.eapps-social-icons-size-24 .eapps-social-icons-item:hover {
+  -webkit-transform: translateY(-3px);
+          transform: translateY(-3px);
+}
+.eapps-social-icons-animation-fly.eapps-social-icons-size-32 .eapps-social-icons-item:hover {
+  -webkit-transform: translateY(-4px);
+          transform: translateY(-4px);
+}
+.eapps-social-icons-animation-fly.eapps-social-icons-size-40 .eapps-social-icons-item:hover {
+  -webkit-transform: translateY(-5px);
+          transform: translateY(-5px);
+}
+.eapps-social-icons-animation-fly.eapps-social-icons-size-48 .eapps-social-icons-item:hover {
+  -webkit-transform: translateY(-6px);
+          transform: translateY(-6px);
+}
+.eapps-social-icons-animation-fly.eapps-social-icons-size-60 .eapps-social-icons-item:hover {
+  -webkit-transform: translateY(-7px);
+          transform: translateY(-7px);
+}
+.eapps-social-icons-animation-bounce .eapps-social-icons-item:hover {
+  -webkit-animation: eapps-animation-bounce 0.3s forwards;
+          animation: eapps-animation-bounce 0.3s forwards;
+}
+.eapps-social-icons-animation-zoom .eapps-social-icons-item::before {
+  transition: none;
+}
+.eapps-social-icons-animation-zoom .eapps-social-icons-item::after {
+  -webkit-transform: scale3d(0, 0, 0);
+          transform: scale3d(0, 0, 0);
+  transition: all 0.3s ease;
+}
+.eapps-social-icons-animation-zoom .eapps-social-icons-item:hover {
+  -webkit-transform: scale3d(1.1, 1.1, 1.1);
+          transform: scale3d(1.1, 1.1, 1.1);
+  transition: all 0.3s ease;
+}
+.eapps-social-icons-animation-zoom .eapps-social-icons-item:hover::before {
+  transition: all 0.3s ease 0.2s;
+  opacity: 0;
+}
+.eapps-social-icons-animation-zoom .eapps-social-icons-item:hover::after {
+  -webkit-transform: scale3d(1, 1, 1);
+          transform: scale3d(1, 1, 1);
+}
+.eapps-social-icons-animation-slide .eapps-social-icons-item {
+  overflow: hidden;
+}
+.eapps-social-icons-animation-slide .eapps-social-icons-item:hover .eapps-social-icons-item-icon {
+  -webkit-animation: eapps-animation-slide 0.3s forwards cubic-bezier(0.54, 0.74, 0.25, 1.3);
+          animation: eapps-animation-slide 0.3s forwards cubic-bezier(0.54, 0.74, 0.25, 1.3);
+}
+@-webkit-keyframes eapps-animation-bounce {
+  40% {
+    -webkit-transform: scale3d(0.9, 0.9, 1);
+            transform: scale3d(0.9, 0.9, 1);
+  }
+  70% {
+    -webkit-transform: scale3d(1.05, 1.05, 1);
+            transform: scale3d(1.05, 1.05, 1);
+  }
+  100% {
+    -webkit-transform: scale3d(1, 1, 1);
+            transform: scale3d(1, 1, 1);
+  }
+}
+@keyframes eapps-animation-bounce {
+  40% {
+    -webkit-transform: scale3d(0.9, 0.9, 1);
+            transform: scale3d(0.9, 0.9, 1);
+  }
+  70% {
+    -webkit-transform: scale3d(1.05, 1.05, 1);
+            transform: scale3d(1.05, 1.05, 1);
+  }
+  100% {
+    -webkit-transform: scale3d(1, 1, 1);
+            transform: scale3d(1, 1, 1);
+  }
+}
+@-webkit-keyframes eapps-animation-slide {
+  49% {
+    -webkit-transform: translateY(100%);
+            transform: translateY(100%);
+  }
+  50% {
+    opacity: 0;
+    -webkit-transform: translateY(-100%);
+            transform: translateY(-100%);
+  }
+  51% {
+    opacity: 1;
+  }
+}
+@keyframes eapps-animation-slide {
+  49% {
+    -webkit-transform: translateY(100%);
+            transform: translateY(100%);
+  }
+  50% {
+    opacity: 0;
+    -webkit-transform: translateY(-100%);
+            transform: translateY(-100%);
+  }
+  51% {
+    opacity: 1;
+  }
+}
+</style></head>
+<body>
+    <div id="header">
+        <div class="container">
+        <nav>
+            <!-- <img src="images/R.png" class="logo"> -->
+            <ul id="sidemenu">
+                <li><a href="http://127.0.0.1:5500/portfolio%20website.html#about">About </a></li>
+             
+                <li><a href="http://127.0.0.1:5500/portfolio%20website.html#services">Services</a></li>
+                <li><a href="http://127.0.0.1:5500/portfolio%20website.html#workk">Work</a></li>
+                <li><a href="http://127.0.0.1:5500/portfolio%20website.html#contact">contact</a></li>
+                <i class="fa-regular fa-square-xmark" onclick="closemenu()"></i>
+            </ul>
+            <i class="fa-solid fa-bars" onclick="openmenu()"></i>
+        </nav>
+        <div class="header-text">
+            <p>Front-end Developer</p>
+            <h1>Hi,I'm <span>Shruti Kaushik</span><br> from Delhi</h1>
+        </div>
+    </div>
+    </div>
+
+ 
+    
+        <div id="about">
+        <div class="coontainer">
+            <div class="row">
+                <div class="about-col-1">
+                    <img src="./cv_files/save.jpg">
+                </div>
+                <div class="about-col-2">
+                    <h1 class="sub-title">About Me</h1>
+                <p><b>Front-End Developer</b></p><br>
+                <p>I am currently a fresher with an ability to produce quality work and open to learning </p>
+                <div class="tab-titles">
+                <p class="tab-links active-link" onclick="opentab(&#39;skills&#39;)"> Skills</p>
+                <!-- <p class="tab-links" onclick="opentab('Experience')"> Experience</p> -->
+                <p class="tab-links" onclick="opentab(&#39;Education&#39;)"> Education</p>
+            </div>
+        <div class="tab-contents active-tab" id="Skills">
+            <ul>
+                <li><span>HTML5</span><br>creating structure</li>
+                <li><span>CSS3</span><br>Designing Web Pages</li>
+                <li><span>BOOTSTRAP</span><br>creating websites</li>
+                <li><span>JAVASCRIPT</span><br>implementing features on Web Pages</li>
+                <li><span>GIT</span><br>to manage Code</li>
+                <li><span>GITHUB</span><br>for version control and  for uploading copies of a Git repository.</li>
+            </ul>
+        </div>
+        <div class="tab-contents" id="Education">
+            <ul>
+                <li><span>2019</span><br>10<sup>th</sup> from RADISSON THE SCHOOL</li>
+                <li><span>2021</span><br>12<sup>th</sup> from RADISSON THE SCHOOL</li>
+                <li><span>Pursuing Bachelors  </span><br>Computer Applications and Economics</li>
+                <li><span>college:-</span><br>Lady Shriram College for Women</li>
+                <li><span>University:-</span><br>Delhi University</li>
+            </ul>
+        </div>
+        </div>
+            </div>
+        </div>
+        </div>
+        
+    <!-----services-->
+    <div id="services">
+        <div class="container">
+            <h1 class="sub-title">My Services</h1>
+        <div class="services-list">
+            <div>
+                <i class="fas fa-code"></i>
+                <h2>web Design</h2><br>
+                <p>i design web pages basically designs the layout, navigation, and visuals of a website <br> i create </p>
+                
+</div>
+        <div>
+        <h2>front-end Developer</h2><br>
+        <p>I develop the user interface <br> also, can build and maintain the structure of websites 
+
+        </p>
+        
+</div>
+
+        </div></div>
+    </div>
+    <!--portfolio-->
+    <div id="workk">
+        <div class="container">
+            <h1 class="sub-title">My Work</h1>
+            <div class="work-list">
+                <div class="work">
+                    <img src="./cv_files/work1.png">
+                    <div class="layer">
+                        <h3>API-based Weather App</h3>
+                        <p>this is a simple api-based website app which tells you about the weather of different locations.
+                            <a href="https://shruti-kaushik.github.io/weather-app/">CLICK HERE
+                                <i class="fa-sharp fa-solid fa-arrow-up-right-from-square"></i>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+                <div class="work">
+                    <img src="./cv_files/workkk.png">
+                    <div class="layer">
+                        <h3>Youtube clone</h3>
+                        <p>This website is just a clone of Youtube.
+                            <a href="https://shruti-kaushik.github.io/YOUTUBE-clone/">CLICK HERE
+                                <i class="fa-sharp fa-solid fa-arrow-up-right-from-square"></i>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+                <div class="work">
+                    <img src="./cv_files/snakeee.png">
+                   <div class="layer">
+                        <h3>Snake Game</h3>
+                        <p>This website is a clone of the old Snake Game played by almost all of us. This tells the highest score too.
+                            <a href="https://shruti-kaushik.github.io/SNAKE-GAME/">CLICK HERE
+                                <i class="fa-sharp fa-solid fa-arrow-up-right-from-square"></i>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <a href="http://127.0.0.1:5500/seemore.html" class="btn">See More</a>
+            <br>
+        </div>
+    </div>
+    <div id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="contact-right">
+                    <h1 class="sub-title"> Contact Me</h1>
+                    <p><i class="fa-solid fa-envelope"></i> kaushikshruti2004@gmail.com</p>
+                    <p><i class="fa-solid fa-phone"></i> 9758245378</p>
+                    <div class="social-icons">
+                        <script src="./cv_files/platform.js.download" defer=""></script>
+                        <div class="elfsight-app-c0c271d8-6836-41bd-ae85-9aa598c31044" id="eapps-social-icons-1"><div class="eapps-social-icons eapps-widget
+    eapps-social-icons-location-inline
+    eapps-social-icons-position-center
+    eapps-social-icons-size-48
+    eapps-social-icons-style-default
+    eapps-social-icons-border-radius-circle
+    eapps-social-icons-icon-color-white
+    eapps-social-icons-bg-color-native
+    eapps-social-icons-icon-color-on-hover-native
+    eapps-social-icons-bg-color-on-hover-white
+    eapps-social-icons-animation-bounce
+" style="width: auto; position: relative;"><a class="eapps-social-icons-item-facebook eapps-social-icons-item" href="https://facebook.com/elfsight" target="_blank" rel="nofollow" title="Facebook">
+    <span eapps-link="svg"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve" class="eapps-social-icons-item-icon"> <g> <path fill="%233E68C0" d="M5.677,12.998V8.123h3.575V6.224C9.252,2.949,11.712,0,14.736,0h3.94v4.874h-3.94 c-0.432,0-0.934,0.524-0.934,1.308v1.942h4.874v4.874h-4.874V24H9.252V12.998H5.677z"></path> </g> </svg></span>
+</a><a class="eapps-social-icons-item-twitter eapps-social-icons-item" href="https://twitter.com/elfsight" target="_blank" rel="nofollow" title="Twitter">
+    <span eapps-link="svg"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve" class="eapps-social-icons-item-icon"> <g> <path id="twitter-4-icon_1_" fill="%2323ABFF" d="M21.535,7.063c0.311,6.923-4.852,14.642-13.99,14.642 c-2.78,0-5.368-0.815-7.545-2.213c2.611,0.308,5.217-0.415,7.287-2.038c-2.154-0.039-3.972-1.462-4.599-3.418 c0.771,0.148,1.53,0.105,2.223-0.084c-2.367-0.475-4.002-2.608-3.948-4.888c0.664,0.369,1.423,0.59,2.229,0.615 C1.001,8.215,0.38,5.32,1.67,3.108c2.428,2.978,6.055,4.938,10.145,5.143c-0.717-3.079,1.618-6.044,4.796-6.044 c1.415,0,2.694,0.598,3.592,1.554c1.121-0.221,2.174-0.631,3.126-1.195c-0.368,1.149-1.149,2.114-2.164,2.724 c0.995-0.119,1.944-0.384,2.826-0.776C23.331,5.503,22.497,6.37,21.535,7.063z"></path> </g> </svg></span>
+</a><a class="eapps-social-icons-item-instagram eapps-social-icons-item" href="https://instagram.com/elfsight" target="_blank" rel="nofollow" title="Instagram">
+    <span eapps-link="svg"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve" class="eapps-social-icons-item-icon"> <g> <circle fill="%23222222" cx="18.05" cy="5.992" r="1.355"></circle> <path fill="%23222222" d="M12.021,5.806c-3.427,0-6.215,2.788-6.215,6.215s2.788,6.215,6.215,6.215s6.215-2.788,6.215-6.215 S15.448,5.806,12.021,5.806z M12.021,15.412c-1.87,0-3.391-1.521-3.391-3.391s1.521-3.391,3.391-3.391 c1.87,0,3.391,1.521,3.391,3.391S13.891,15.412,12.021,15.412z"></path> <path fill="%23222222" d="M23.369,4.574c-0.357-0.919-0.846-1.669-1.539-2.362c-0.693-0.693-1.443-1.182-2.362-1.539 c-0.905-0.352-1.836-0.533-3.018-0.587c-1.153-0.053-1.536-0.065-4.43-0.065c-2.895,0-3.277,0.012-4.43,0.065 C6.409,0.14,5.478,0.321,4.574,0.673C3.655,1.03,2.904,1.519,2.212,2.212C1.519,2.904,1.03,3.655,0.673,4.573 C0.321,5.478,0.14,6.409,0.086,7.591c-0.053,1.153-0.065,1.536-0.065,4.43s0.012,3.277,0.065,4.43 c0.054,1.182,0.235,2.113,0.587,3.018c0.357,0.919,0.846,1.669,1.539,2.362c0.693,0.693,1.443,1.182,2.362,1.539 c0.905,0.352,1.836,0.533,3.018,0.587c1.153,0.053,1.536,0.065,4.43,0.065c2.895,0,3.277-0.012,4.43-0.065 c1.182-0.054,2.113-0.235,3.018-0.587c0.919-0.357,1.669-0.846,2.362-1.539c0.693-0.693,1.182-1.443,1.539-2.362 c0.352-0.905,0.533-1.836,0.587-3.018c0.053-1.153,0.065-1.536,0.065-4.43s-0.012-3.277-0.065-4.43 C23.902,6.409,23.721,5.478,23.369,4.574z M21.135,16.322c-0.05,1.105-0.239,1.715-0.398,2.123 c-0.216,0.556-0.486,0.971-0.903,1.389c-0.417,0.417-0.833,0.687-1.389,0.904c-0.408,0.159-1.018,0.347-2.123,0.397 c-1.123,0.051-1.46,0.062-4.301,0.062c-2.841,0-3.178-0.011-4.301-0.062c-1.105-0.05-1.715-0.239-2.123-0.398 c-0.556-0.216-0.971-0.486-1.389-0.903c-0.417-0.417-0.687-0.833-0.904-1.389c-0.159-0.408-0.347-1.018-0.397-2.123 c-0.051-1.123-0.062-1.46-0.062-4.301s0.011-3.178,0.062-4.301c0.05-1.105,0.239-1.715,0.398-2.123 c0.216-0.556,0.486-0.971,0.903-1.389c0.417-0.417,0.833-0.687,1.389-0.904C6.005,3.146,6.615,2.957,7.72,2.907 c1.123-0.051,1.46-0.062,4.301-0.062c2.841,0,3.178,0.011,4.302,0.062c1.105,0.05,1.715,0.239,2.123,0.398 c0.556,0.216,0.971,0.486,1.389,0.903c0.417,0.417,0.687,0.833,0.904,1.389c0.159,0.408,0.347,1.018,0.397,2.123 c0.051,1.123,0.062,1.46,0.062,4.301S21.186,15.199,21.135,16.322z"></path> </g> </svg></span>
+</a><a class="eapps-social-icons-item-youtube eapps-social-icons-item" href="https://youtube.com/elfsight" target="_blank" rel="nofollow" title="YouTube">
+    <span eapps-link="svg"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve" class="eapps-social-icons-item-icon"> <g> <path fill="%23EE3130" d="M23.777,6.602c-0.205-1.75-0.625-2.261-0.921-2.494c-0.475-0.371-1.337-0.499-2.487-0.578 c-1.85-0.126-4.979-0.2-8.37-0.2c-3.391,0-6.519,0.074-8.368,0.2C2.482,3.609,1.619,3.738,1.144,4.108 C0.847,4.341,0.429,4.852,0.222,6.602c-0.296,2.522-0.296,8.273,0,10.796c0.207,1.749,0.625,2.26,0.922,2.492 c0.475,0.373,1.338,0.501,2.487,0.58c1.849,0.125,4.978,0.199,8.368,0.199c3.392,0,6.52-0.075,8.37-0.199 c1.15-0.079,2.011-0.207,2.487-0.58c0.296-0.232,0.716-0.743,0.921-2.492C24.074,14.875,24.074,9.125,23.777,6.602z M9.104,15.774 V8.225L16.344,12L9.104,15.774z"></path> </g> </svg></span>
+</a><a class="eapps-link" title="Free Social Icons widget" href="https://elfsight.com/social-media-icons-widget/?utm_source=websites&amp;utm_medium=clients&amp;utm_content=social-media-icons-widget&amp;utm_term=127.0.0.1:5500&amp;utm_campaign=free-widget" target="_blank" style="accent-color: auto; place-content: normal; place-items: normal; place-self: auto; alignment-baseline: auto; animation: 0s ease 0s 1 normal none running none; app-region: none; appearance: none; backdrop-filter: none; backface-visibility: hidden; background: none 0% 0% / auto repeat scroll padding-box border-box rgba(0, 0, 0, 0); background-blend-mode: normal; baseline-shift: 0px; baseline-source: auto; block-size: 48px; border-block-end: 0px none rgba(0, 0, 0, 0); border-block-start: 0px none rgba(0, 0, 0, 0); border-color: rgba(0, 0, 0, 0); border-radius: 50%; border-style: none; border-width: 0px; border-collapse: separate; border-end-end-radius: 50%; border-end-start-radius: 50%; border-image: none 100% / 1 / 0 stretch; border-inline-end: 0px none rgba(0, 0, 0, 0); border-inline-start: 0px none rgba(0, 0, 0, 0); border-start-end-radius: 50%; border-start-start-radius: 50%; inset: 0px; box-shadow: none; box-sizing: border-box; break-after: auto; break-before: auto; break-inside: auto; buffered-rendering: auto; caption-side: top; caret-color: rgb(171, 171, 171); clear: none; clip: auto; clip-path: none; clip-rule: nonzero; color: rgb(171, 171, 171); color-interpolation: srgb; color-interpolation-filters: linearrgb; color-rendering: auto; columns: auto; gap: normal; column-rule: 0px none rgb(171, 171, 171); column-span: none; contain-intrinsic-block-size: none; contain-intrinsic-size: none; contain-intrinsic-inline-size: none; container: none; content: normal; cursor: pointer; cx: 0px; cy: 0px; d: none; direction: ltr; display: inline-block; dominant-baseline: auto; empty-cells: show; fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: nonzero; filter: none; flex: 0 1 auto; flex-flow: row nowrap; float: none; flood-color: rgb(0, 0, 0); flood-opacity: 1; font-family: &quot;Lucida Sans&quot;, &quot;Lucida Sans Regular&quot;, &quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Geneva, Verdana, sans-serif; font-kerning: auto; font-optical-sizing: auto; font-palette: normal; font-size: 30px; font-stretch: 100%; font-style: normal; font-synthesis: weight style small-caps; font-variant: normal; font-weight: 400; grid: auto-flow auto / none; grid-area: auto / auto / auto / auto; height: 48px; hyphenate-character: auto; hyphenate-limit-chars: auto; hyphens: none; image-orientation: from-image; image-rendering: auto; initial-letter: normal; inline-size: 48px; inset-block: 0px; inset-inline: 0px; isolation: auto; letter-spacing: normal; lighting-color: rgb(255, 255, 255); line-break: auto; line-height: normal; list-style: outside none disc; margin-block: 6px; margin: 6px; margin-inline: 6px; marker: none; mask-type: luminance; math-depth: 0; math-shift: normal; math-style: normal; max-block-size: none; max-height: none; max-inline-size: none; max-width: none; min-block-size: 0px; min-height: 0px; min-inline-size: 0px; min-width: 0px; mix-blend-mode: normal; object-fit: fill; object-position: 50% 50%; object-view-box: none; offset: none 0px auto 0deg; opacity: 1; order: 0; orphans: 2; outline: rgb(171, 171, 171) none 0px; outline-offset: 0px; overflow-anchor: auto; overflow-clip-margin: 0px; overflow-wrap: normal; overflow: visible; overscroll-behavior-block: auto; overscroll-behavior-inline: auto; padding-block: 0px; padding: 0px; padding-inline: 0px; paint-order: normal; perspective: none; perspective-origin: 24px 24px; pointer-events: auto; position: relative; r: 0px; resize: none; rotate: none; ruby-position: over; rx: auto; ry: auto; scale: none; scroll-behavior: auto; scroll-margin-block: 0px; scroll-margin-inline: 0px; scroll-padding-block: auto; scroll-padding-inline: auto; scrollbar-gutter: auto; shape-image-threshold: 0; shape-margin: 0px; shape-outside: none; shape-rendering: auto; speak: normal; stop-color: rgb(0, 0, 0); stop-opacity: 1; stroke: none; stroke-dasharray: none; stroke-dashoffset: 0px; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-opacity: 1; stroke-width: 1px; tab-size: 8; table-layout: auto; text-align: center; text-align-last: auto; text-anchor: start; text-decoration: none solid rgb(171, 171, 171); text-decoration-skip-ink: auto; text-emphasis: none rgb(171, 171, 171); text-emphasis-position: over; text-indent: 0px; text-overflow: clip; text-rendering: auto; text-shadow: none; text-size-adjust: auto; text-transform: none; text-underline-position: auto; touch-action: auto; transform: none; transform-origin: 24px 24px; transform-style: flat; transition: all 0.1s ease 0s; translate: none; unicode-bidi: normal; user-select: auto; vector-effect: none; vertical-align: middle; view-transition-name: none; visibility: visible; white-space: normal; widows: 2; width: 48px; will-change: auto; word-break: normal; word-spacing: 0px; writing-mode: horizontal-tb; x: 0px; y: 0px; z-index: auto; zoom: 1; border-spacing: 0px; -webkit-border-image: none; -webkit-box-align: stretch; -webkit-box-decoration-break: slice; -webkit-box-direction: normal; -webkit-box-flex: 0; -webkit-box-ordinal-group: 1; -webkit-box-orient: horizontal; -webkit-box-pack: start; -webkit-font-smoothing: auto; -webkit-highlight: none; -webkit-line-break: auto; -webkit-locale: &quot;en&quot;; -webkit-mask-box-image-source: none; -webkit-mask-box-image-slice: 0 fill; -webkit-mask-box-image-width: auto; -webkit-mask-box-image-outset: 0; -webkit-mask-box-image-repeat: stretch; -webkit-mask: none 0% 0% / auto repeat border-box border-box; -webkit-mask-composite: source-over; -webkit-print-color-adjust: economy; -webkit-rtl-ordering: logical; -webkit-tap-highlight-color: rgba(0, 0, 0, 0.18); -webkit-text-combine: none; -webkit-text-decorations-in-effect: none; -webkit-text-fill-color: rgb(171, 171, 171); -webkit-text-orientation: vertical-right; -webkit-text-security: none; -webkit-text-stroke: 0px rgb(171, 171, 171); -webkit-user-drag: auto; -webkit-user-modify: read-only; -webkit-writing-mode: horizontal-tb;display: inline-block!important;z-index: 99999!important;vertical-align: middle!important;position: relative!important;cursor: pointer!important;backface-visibility: hidden!important;transition: none!important;overflow: visible!important;background-position: center!important;background: rgb(231, 231, 231) url(&#39;data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyNC4wLjIsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0i0KHQu9C+0LlfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCA2IDUuOCIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNiA1Ljg7IiB4bWw6c3BhY2U9InByZXNlcnZlIj4NCjxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+DQoJLnN0MHtmaWxsLXJ1bGU6ZXZlbm9kZDtjbGlwLXJ1bGU6ZXZlbm9kZDtmaWxsOiM4MDgwODA7fQ0KPC9zdHlsZT4NCjxnPg0KCTxwYXRoIGlkPSJlbGZzaWdodC1nbHlwaC0xMjAwLWEiIGNsYXNzPSJzdDAiIGQ9Ik0zLjIsMEM0LjgsMCw2LjEsMS40LDYsM2MwLDEuNi0xLjQsMi44LTMsMi44cy0yLjgtMS40LTIuOC0zYzAtMC4xLDAtMC4xLDAtMC4yDQoJCWMwLDAsMC4xLTAuMywwLjMtMC4zczAuMywwLjIsMC4zLDAuM3YwLjF2MC4xYzAsMS4zLDEsMi40LDIuMiwyLjRjMS4zLDAsMi40LTEsMi40LTIuMmMwLTEuMy0xLTIuNC0yLjItMi40Yy0wLjEsMC0wLjMsMC0wLjQsMA0KCQlsMCwwYzAsMC0wLjMsMC0wLjQtMC4yUzIuNSwwLDIuNiwwQzIuOCwwLDMsMCwzLjIsMHogTTAuMSwwLjJDMC4yLDAuMiwwLjIsMC4yLDAuMSwwLjJMMC4xLDAuMkwwLjEsMC4ybDMuMSwxLjZsMCwwbDAsMGwwLDBsMCwwDQoJCUMzLjYsMiwzLjcsMi4yLDMuNywyLjVsMCwwbDAsMGwwLDBsMCwwdjAuOWMwLDAuMiwwLDAuMywwLDAuNGwwLDBsMCwwYzAsMC4xLDAsMC4yLTAuMSwwLjJjMCwwLDAsMC0wLjEsMGwwLDBsMCwwTDIuOCwzLjZsMCwwDQoJCUMyLjUsMy40LDIuNCwzLjIsMi40LDIuOWwwLDBjMC0wLjIsMC0wLjUtMC40LTAuOEMxLjMsMS42LDAuMiwwLjYsMCwwLjVsMCwwbDAsMGwwLDBsMCwwVjAuNEMwLDAuMywwLjEsMC4yLDAuMSwwLjJ6Ii8+DQo8L2c+DQo8L3N2Zz4NCg==&#39;) no-repeat 8px center/16px 16px">
+              
+              
+              <div class="eapps-remove-link" title="Remove Elfsight logo" style="display:none!important;align-items:center!important;justify-content:center!important;width:20px!important;height:20px!important;border-radius:12px!important;overflow:hidden!important;position:absolute!important;right:-6px!important;top:-4px!important;background:#f93262!important;box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2)!important">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 10 10" style="display: block!important;pointer-events: none!important;">
+                    <path fill="#ffffff" d="M6.01 5l3.78 3.78a.714.714 0 1 1-1.01 1.01L5 6.01 1.22 9.79A.714.714 0 1 1 .21 8.78L3.99 5 .21 1.22A.714.714 0 0 1 1.22.21L5 3.99 8.78.21a.714.714 0 0 1 1.01 1.01L6.01 5z"></path>
+                  </svg>
+              </div>
+          </a></div><style>
+    #eapps-social-icons-1 .eapps-social-icons-item {
+        opacity: 1;
+    }
+
+    #eapps-social-icons-1 .eapps-social-icons-item:hover {
+        opacity: 1;
+    }
+</style><style></style></div>
+                    </div>
+                    <br>
+                    <a href="http://127.0.0.1:5500/documents/SHRUTI%20KAUSHIK.pdf" download="" class="btn2">Download CV</a>
+            </div>
+                <div class="contact-right">
+                    <form name="submit-to-google-sheet">
+                        <input type="text" name="name" placeholder="shruti kaushik" required="">
+                        <input type="E-mail" name="email" placeholder="shruti2004@gmail.com" required="">
+                        <textarea name="message" rows="6" placeholder="your message" required=""></textarea>
+                    <button type="submit" name="submit" class="btn btn2">Submit</button>
+                </form>
+                <span id="msg"></span>
+                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>copyright @ shruti. made with<i class="fa-solid fa-heart"></i> by shruti kaushik</p>
+        </div>
+    </div>
+
+    <script>
+        var tablinks = document.getElementsByClassName("tab-links");
+        var tabcontents = document.getElementsByClassName("tab-contents");
+        function opentab(tabname){
+            for(tablink of tablinks){
+                tablink.classList.remove("active-link");
+            }
+                for(tabcontent of tabcontents){
+                tabcontent.classList.remove("active-tab");
+            }
+            event.currentTarget.classList.add("active-link");
+            document.getElementById(tabname).classList.add("active-tab");
+        }
+    </script>
+    <script>
+var sidemenu=document.getElementById("sidemenu");
+function openmenu(){
+    sidemenu.style.right="0";
+}
+function closemenu(){
+    sidemenu.style.right="-200px";
+}
+    </script>
+
+<script>
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbyG455DMgd8sguFAIOkRUimoCABjfRrmu9k-YINoymyLqaWJJSa4sydZcIl8d5D7T67/exec'
+    const form = document.forms['submit-to-google-sheet']
+    const msg=document.getElementById("msg")
+  
+    form.addEventListener('submit', e => {
+      e.preventDefault()
+      fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+        .then(response => {msg.innerHTML="ThankYou..Message sent successfully"
+    setTimeout(function() {
+        msg.innerHTML=""
+    }, 5000)
+form.reset()})
+        .catch(error => console.error('Error!', error.message))
+    })
+  </script>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+</body></html>
